@@ -1,0 +1,16 @@
+.b{
+    
+    background-color: black;
+    height:50px;
+    width: 50px;
+}
+.w{
+    background-color: white;
+    height: 50px;
+    width:50px;
+}
+table{
+    border-collapse: collapse;
+    border:3px solid black;
+    margin:20px 0px 0px 450px;
+}
